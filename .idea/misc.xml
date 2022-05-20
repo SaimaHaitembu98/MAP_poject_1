@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/EAndreas/AndroidStudioProjects/ValentineGarage/app/src/main/res/layout/activity_home_page.xml" value="0.1" />
+        <entry key="..\:/Users/EAndreas/AndroidStudioProjects/ValentineGarage/app/src/main/res/layout/activity_list_view_data.xml" value="0.1796875" />
+        <entry key="..\:/Users/EAndreas/AndroidStudioProjects/ValentineGarage/app/src/main/res/layout/activity_main.xml" value="0.26058631921824105" />
+        <entry key="..\:/Users/EAndreas/AndroidStudioProjects/ValentineGarage/app/src/main/res/layout/activity_signup_page.xml" value="0.22" />
+        <entry key="..\:/Users/EAndreas/AndroidStudioProjects/ValentineGarage/app/src/main/res/layout/activity_tasks.xml" value="0.1796875" />
+        <entry key="..\:/Users/EAndreas/AndroidStudioProjects/ValentineGarage/app/src/main/res/layout/signup.xml" value="0.22" />
+        <entry key="..\:/Users/Elifas/AndroidStudioProjects/ValentineGarage/app/src/main/res/drawable/done_24.xml" value="0.1" />
+        <entry key="..\:/Users/Elifas/AndroidStudioProjects/ValentineGarage/app/src/main/res/drawable/ic_baseline_add.xml" value="0.115" />
+        <entry key="..\:/Users/Elifas/AndroidStudioProjects/ValentineGarage/app/src/main/res/drawable/ic_baseline_done_all_24.xml" value="0.1" />
+        <entry key="..\:/Users/Elifas/AndroidStudioProjects/ValentineGarage/app/src/main/res/layout/activity_checklist.xml" value="0.1" />
+        <entry key="..\:/Users/Elifas/AndroidStudioProjects/ValentineGarage/app/src/main/res/layout/activity_home_page.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Elifas/AndroidStudioProjects/ValentineGarage/app/src/main/res/layout/activity_list_view_data.xml" value="0.22" />
+        <entry key="..\:/Users/Elifas/AndroidStudioProjects/ValentineGarage/app/src/main/res/layout/activity_main.xml" value="0.11820652173913043" />
+        <entry key="..\:/Users/Elifas/AndroidStudioProjects/ValentineGarage/app/src/main/res/layout/activity_report.xml" value="0.11141304347826086" />
+        <entry key="..\:/Users/Elifas/AndroidStudioProjects/ValentineGarage/app/src/main/res/layout/activity_signup_page.xml" value="0.1" />
+        <entry key="..\:/Users/Elifas/AndroidStudioProjects/ValentineGarage/app/src/main/res/layout/activity_splash.xml" value="0.1796875" />
+        <entry key="..\:/Users/Elifas/AndroidStudioProjects/ValentineGarage/app/src/main/res/layout/activity_tasks.xml" value="0.22" />
+        <entry key="..\:/Users/Elifas/AndroidStudioProjects/ValentineGarage/app/src/main/res/layout/addingtask.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Elifas/AndroidStudioProjects/ValentineGarage/app/src/main/res/layout/addingtasks.xml" value="0.1796875" />
+        <entry key="..\:/Users/Elifas/AndroidStudioProjects/ValentineGarage/app/src/main/res/layout/new_task.xml" value="0.1796875" />
+        <entry key="..\:/Users/Elifas/AndroidStudioProjects/ValentineGarage/app/src/main/res/menu/main_menu.xml" value="0.1361111111111111" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
